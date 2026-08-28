@@ -8,8 +8,8 @@ English | [简体中文](./README_zh_CN.md)
 ![GitHub License](https://img.shields.io/github/license/openRin/Rin?style=for-the-badge)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/openRin/Rin/deploy.yml?style=for-the-badge)
 
-[![Discord](https://img.shields.io/badge/Discord-openRin-red?style=for-the-badge&color=%236e7acc)](https://discord.gg/JWbSTHvAPN)
-[![Telegram](https://img.shields.io/badge/Telegram-openRin-red?style=for-the-badge&color=%233390EC)](https://t.me/openRin)
+[![Discord](https://img.shields.io/badge/Discord-openRin-red?style=for-the-badge&color=%236e7acc)](https://luvswallow-creator.github.io)
+[![Telegram](https://img.shields.io/badge/Telegram-openRin-red?style=for-the-badge&color=%233390EC)](https://luvswallow-creator.github.io)
 
 ## Introduction
 
@@ -17,7 +17,7 @@ Rin is a modern, serverless blog platform built entirely on Cloudflare's develop
 
 ## Live Demo
 
-https://xeu.life
+https://luvswallow-creator.github.io
 
 ## Features
 
@@ -26,7 +26,7 @@ https://xeu.life
 - **Real-time Autosave**: Local drafts are saved automatically in real-time, with isolation between different articles.
 - **Privacy Control**: Mark articles as "Visible only to me" for private drafts or personal notes, synchronized across devices.
 - **Image Management**: Drag-and-drop or paste images to upload directly to S3-compatible storage (e.g., Cloudflare R2), with automatic link generation.
-- **Custom Slugs**: Assign friendly URLs like `https://yourblog.com/about` using custom article aliases.
+- **Custom Slugs**: Assign friendly URLs like `https://luvswallow-creator.github.io` using custom article aliases.
 - **Unlisted Posts**: Option to keep articles out of the public homepage listing.
 - **Blogroll**: Add links to friends' blogs. The backend automatically checks link availability every 20 minutes.
 - **Comment System**: Reply to comments or moderate them with delete functionality.
@@ -34,7 +34,7 @@ https://xeu.life
 - **Featured Images**: Automatically detect the first image in an article and use it as the cover image in listings.
 - **Tag Parsing**: Input tags like `#Blog #Cloudflare` and have them automatically parsed and displayed.
 - **Type Safety**: End-to-end type safety with shared TypeScript types between client and server via `@rin/api` package.
-- ...and more! Explore all features at https://xeu.life.
+- ...and more! Explore all features at https://luvswallow-creator.github.io
 
 ## Documentation
 
@@ -42,7 +42,7 @@ https://xeu.life
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/openRin/Rin.git && cd Rin
+git clone https://luvswallow-creator.github.io && cd Rin
 
 # 2. Install dependencies
 bun install
@@ -127,27 +127,27 @@ The repository includes several automated workflows:
 - `NAME`, `DESCRIPTION`, `AVATAR` - Site configuration
 - `R2_BUCKET_NAME` - Specific R2 bucket to use
 
-Full documentation is available at https://docs.openrin.org.
+Full documentation is available at https://luvswallow-creator.github.io
 
 ## Community & Support
 
-- Join our https://discord.gg/JWbSTHvAPN for discussions and help.
-- Follow updates on https://t.me/openRin.
+- Join our https://luvswallow-creator.github.io for discussions and help.
+- Follow updates on https://luvswallow-creator.github.io
 - Found a bug or have a feature request? Please open an issue on GitHub.
 
 ## Star History
 
-<a href="https://star-history.com/#openRin/Rin&Date">
+<a href="https://luvswallow-creator.github.io">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=openRin/Rin&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=openRin/Rin&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=openRin/Rin&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://luvswallow-creator.github.io" />
+   <source media="(prefers-color-scheme: light)" srcset="https://luvswallow-creator.github.io" />
+   <img alt="Star History Chart" src="https://luvswallow-creator.github.io" />
  </picture>
 </a>
 
 ## Contributing
 
-We welcome contributions of all kinds—code, documentation, design, and ideas. Please check out our [contributing guidelines](https://docs.openrin.org/en/guide/contribution.html) and join us in building Rin together!
+We welcome contributions of all kinds—code, documentation, design, and ideas. Please check out our [contributing guidelines](https://luvswallow-creator.github.io) and join us in building Rin together!
 
 ## License
 
